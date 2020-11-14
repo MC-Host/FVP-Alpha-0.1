@@ -1,0 +1,6 @@
+UPDATE LOG 11/14/2020 9:23PM EST
+
+First ever released version of the game *note only special people can see this download*
+
+Addition 1: Added players ; you controll your player with WASD or "Up", "Down", "left arrow", and "Right arrow" *currently only windows support*
+Addition 2: Added multiplayer ; Multiplayer is currently in testing and may be a bit funky
